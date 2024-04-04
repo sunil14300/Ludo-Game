@@ -6,6 +6,7 @@ Below are some pic
 
 ![Screenshot 2024-04-04 215914](https://github.com/sunil14300/Ludo-Game/assets/114928585/a8f342c1-07a6-4935-8e0e-9d8e55eb0334)
 
-![Uploading Screenshot 2024-04-04 215928.png…]()
+![Screenshot 2024-04-04 215928](https://github.com/sunil14300/Ludo-Game/assets/114928585/3e450c9b-e221-45df-85c6-e2885c18a5dc)
+
 
 
